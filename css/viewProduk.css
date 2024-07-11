@@ -17,6 +17,21 @@
     height: 97vh;
     background: green;
     margin-bottom: 2rem;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pic1{
+    width: 50%;
+    height: 67%;
+    background: whitesmoke;
+}
+
+.pic2{
+    width: 25%;
+    height: 33%;
+    background: whitesmoke;
 }
 
 
